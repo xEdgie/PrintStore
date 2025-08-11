@@ -263,7 +263,7 @@ nav {
 
 .about-image {
     height: 400px;
-    background-image: url(/Images/Screen.webp);
+    background-image: url(Images/Screen.webp);
     background-size: cover;
     border-radius: 20px;
     display: flex;
@@ -476,4 +476,5 @@ footer {
     .contact {
         padding: 4rem 5% 2rem;
     }
+
 }
