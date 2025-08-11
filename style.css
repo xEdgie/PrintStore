@@ -218,7 +218,7 @@ nav {
 .portfolio-item {
     margin: auto;
     position: relative;
-    height: 100%;
+    width: 100%;
     border-radius: 15px;
     overflow: hidden;
     cursor: pointer;
@@ -481,6 +481,7 @@ footer {
     }
 
 }
+
 
 
 
