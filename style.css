@@ -208,11 +208,11 @@ nav {
 }
 
 .portfolio-image {
-    width: 95%;
     height: 95%;
-    object-fit: fit;
+    object-fit: contain;
     border-radius: 10px;
     aspect-ratio: 1/1;
+    background: #ffffff;
 }
 
 .portfolio-item {
@@ -229,6 +229,7 @@ nav {
     font-size: 1.2rem;
     font-weight: bold;
     transition: all 0.3s ease;
+    aspect-ratio: 1/1;
 }
 
 .portfolio-item:hover {
@@ -479,4 +480,5 @@ footer {
     }
 
 }
+
 
