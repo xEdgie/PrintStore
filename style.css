@@ -163,6 +163,7 @@ nav {
     box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
     position: relative;
     overflow: hidden;
+    transition: 0.2s all ease-in-out;
 }
 
 .service-card:hover {
@@ -481,6 +482,7 @@ footer {
     }
 
 }
+
 
 
 
